@@ -3,6 +3,10 @@
 
 A modern movie search and discovery web application built with React and Vite. This project demonstrates best practices in React development, including component-based architecture, custom hooks, and integration with external APIs.
 
+## Demo
+
+https://github.com/user-attachments/assets/04f513ac-28e6-45c6-b54e-a0095555e952
+
 ## Features
 
 - **Movie Search:** Search for movies using a responsive search bar with debounced input.
